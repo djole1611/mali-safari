@@ -23,6 +23,7 @@ Sadržaj ubačen:
 - Ime: Katarina Todosijević
 - Zvanje: diplomirani vaspitač
 - Kontakt: +381 63 743 6971
+- Instagram: @cuvanjedece.bgd
 - Usluge: dnevno, povremeno, večernje, vikendom, tokom raspusta
 - Uzrast: 3+ godine
 - Cena: 900 RSD/sat za jedno dete, 1000 RSD/sat vikendom, 1200 RSD/sat za dvoje dece iz iste porodice
