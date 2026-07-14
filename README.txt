@@ -32,3 +32,4 @@ Sadržaj ubačen:
 Online verzija:
 - GitHub repo: https://github.com/djole1611/mali-safari
 - GitHub Pages: https://djole1611.github.io/mali-safari/
+- Render: https://mali-safari.onrender.com/
