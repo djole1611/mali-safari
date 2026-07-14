@@ -28,3 +28,7 @@ Sadržaj ubačen:
 - Cena: 900 RSD/sat za jedno dete, 1000 RSD/sat vikendom, 1200 RSD/sat za dvoje dece iz iste porodice
 - FAQ i proces čuvanja
 
+
+Online verzija:
+- GitHub repo: https://github.com/djole1611/mali-safari
+- GitHub Pages: https://djole1611.github.io/mali-safari/
